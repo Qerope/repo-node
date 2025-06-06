@@ -2,14 +2,14 @@
   "name": "hairsalon",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://qerope.github.io/SEG3525-Assignments/Devoir2",
+  "homepage": "https://qerope.github.io/repo-node",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "deploy": "gh-pages -d out",
-    "predeploy": "next build && next export"
+    "predeploy": "next build"
   },
   "dependencies": {
     "@ant-design/cssinjs": "latest",

@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/SEG3525-Assignments/Devoir2',
-  assetPrefix: '/SEG3525-Assignments/Devoir2/',
+  basePath: '/repo-node',
+  assetPrefix: '/repo-node/',
   output: 'export',
   eslint: {
     ignoreDuringBuilds: true,
